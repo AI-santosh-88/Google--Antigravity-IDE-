@@ -136,7 +136,9 @@ Displays the calculated result to the user.
 7. Display the result
 
 8. End
-   
+9. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 10. Flowchart (Textual Representation) : - 
 
@@ -153,6 +155,7 @@ Perform Calculation
 Display Result
   ↓
 End
+
 
 
 11. Implementation
