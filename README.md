@@ -140,20 +140,27 @@ Displays the calculated result to the user.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-10. Flowchart (Textual Representation) : - 
+10. Flowchart (Textual Representation) : -
+    
 
 Start
   ↓
+  
 Enter First Number
   ↓
+  
 Enter Second Number
   ↓
+  
 Select Operation
   ↓
+  
 Perform Calculation
   ↓
+  
 Display Result
   ↓
+  
 End
 
 
