@@ -10,7 +10,9 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 ## 📘 PROJECT : 
+
 Calculator Application Using Google Antigravity IDE
+
 1. Abstract
 
 This project focuses on the development of a Calculator Application using Google Antigravity IDE. The application is designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The main objective of this project is to provide a simple, efficient, and user-friendly calculator while enhancing understanding of programming logic and application development.
@@ -21,113 +23,123 @@ A calculator is one of the most commonly used tools in daily life for performing
 
 The Calculator Application accepts numerical input from the user, processes the data based on the selected operation, and displays the result instantly.
 
-3. Objectives of the Project
+
+3. Objectives of the Project : 
 
 The main objectives of this project are:
 
-To design and develop a basic calculator application
+1. To design and develop a basic calculator application
 
-To perform fundamental arithmetic operations
+2. To perform fundamental arithmetic operations
 
-To understand programming logic and control flow
+3. To understand programming logic and control flow
 
-To improve problem-solving and application development skills
+4. To improve problem-solving and application development skills
 
-To provide a user-friendly interface for calculations
+5. To provide a user-friendly interface for calculations
+   
 
 4. Scope of the Project
 
 The scope of this project is limited to:
 
-Basic arithmetic operations:
+* Basic arithmetic operations:
 
-Addition
+a. Addition
 
-Subtraction
+b. Subtraction
 
-Multiplication
+c. Multiplication
 
-Division
+d. Division
 
-Input validation for correct numerical values
+* Input validation for correct numerical values
 
-Displaying accurate results
+* Displaying accurate results
 
 Future enhancements may include scientific calculations, memory functions, and advanced UI design.
 
-5. Software Requirements
 
-IDE: Google Antigravity IDE
+5. Software Requirements : 
 
-Programming Language: (Specify if used, e.g., JavaScript / Python / Java)
+* IDE: Google Antigravity IDE
 
-Operating System: Any (Windows / macOS / Linux)
+* Programming Language: (Specify if used, e.g., JavaScript / Python / Java)
+
+* Operating System: Any (Windows / macOS / Linux)
+
 
 6. Hardware Requirements
 
-Computer or Laptop
+* Computer or Laptop
 
-Minimum 2 GB RAM
+* Minimum 2 GB RAM
 
-Internet connection (for IDE access)
+* Internet connection (for IDE access)
 
-7. System Architecture
+
+7. System Architecture : 
 
 The calculator application follows a simple architecture:
 
-User Interface (UI):
+1. User Interface (UI):
 Allows the user to enter numbers and select arithmetic operations.
 
-Application Logic:
+2. Application Logic:
 Processes user input and performs the selected mathematical operation.
 
-Output Display:
+3. Output Display:
 Displays the calculated result to the user.
 
-8. Module Description
-8.1 Input Module
 
-Accepts numerical values from the user
+8. Module Description : 
+   
+8.1 Input Module 
 
-Ensures valid input
+* Accepts numerical values from the user
+
+* Ensures valid input
 
 8.2 Operation Module
 
-Performs arithmetic operations:
+* Performs arithmetic operations:
 
-Addition
+* Addition
 
-Subtraction
+* Subtraction
 
-Multiplication
+* Multiplication
 
-Division
+* Division
 
-8.3 Result Module
+8.3 Result Module : 
 
-Displays the calculated result
+* Displays the calculated result
 
-Handles error messages such as division by zero
+* Handles error messages such as division by zero
+  
 
-9. Algorithm
+9. Algorithm : 
 
-Start
+1. Start
 
-Display calculator interface
+2. Display calculator interface
 
-Accept first number from user
+3. Accept first number from user
 
-Accept second number from user
+4. Accept second number from user
 
-Accept selected operation
+5. Accept selected operation
 
-Perform the operation
+6. Perform the operation
 
-Display the result
+7. Display the result
 
-End
+8. End
+   
 
-10. Flowchart (Textual Representation)
+10. Flowchart (Textual Representation) : - 
+
 Start
   ↓
 Enter First Number
@@ -142,13 +154,16 @@ Display Result
   ↓
 End
 
+
 11. Implementation
 
 The calculator is implemented using the tools and features provided by Google Antigravity IDE. The logic is written to process user inputs, perform calculations, and handle exceptions such as invalid input or division by zero.
 
+
 12. Testing
 
 The application was tested using various input values to ensure accuracy.
+
 
 ### Test Cases:
 
@@ -157,41 +172,47 @@ Input 1	Input 2	Operation	Output
 10	5	Subtraction	5
 10	5	Multiplication	50
 10	5	Division	2
-13. Results
+
+
+13. Results : 
 
 * The calculator application successfully performs all basic arithmetic operations. The output is accurate, and the application responds quickly to user input.
+  
 
-14. Advantages
+14. Advantages : 
 
-Simple and easy to use
+> Simple and easy to use
 
-Fast and accurate calculations
+> Fast and accurate calculations
 
-Lightweight application
+> Lightweight application
 
-Improves understanding of programming basics
+> Improves understanding of programming basics
 
-15. Limitations
 
-Supports only basic arithmetic operations
+15. Limitations : 
 
-No scientific or advanced functions
+* Supports only basic arithmetic operations
 
-Limited UI customization
+* No scientific or advanced functions
+
+* Limited UI customization
+  
 
 16. Future Enhancements
 
-Add scientific calculator features
+* Add scientific calculator features
 
-Improve graphical user interface
+* Improve graphical user interface
 
-Add memory and history functions
+* Add memory and history functions
 
-Support keyboard input
+* Support keyboard input
+  
 
-17. Conclusion
+17. Conclusion : -
 
-The Calculator Application developed using Google Antigravity IDE successfully meets its objectives. This project provided practical exposure to application development and strengthened programming fundamentals. It serves as a foundation for developing more advanced applications in the future.
+* The Calculator Application developed using Google Antigravity IDE successfully meets its objectives. This project provided practical exposure to application development and strengthened programming fundamentals. It serves as a foundation for developing more advanced applications in the future.
 
 
 
