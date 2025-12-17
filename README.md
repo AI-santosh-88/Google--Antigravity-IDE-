@@ -140,7 +140,9 @@ Displays the calculated result to the user.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-10. Flowchart (Textual Representation) : -
+10. Flowchart (Textual Representation) :    
+
+
 Start
   ↓
 Enter First Number
@@ -155,8 +157,6 @@ Display Result
   ↓
 End
     
-
-
 
 
 12. Implementation
