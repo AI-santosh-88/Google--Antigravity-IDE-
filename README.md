@@ -141,31 +141,25 @@ Displays the calculated result to the user.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 10. Flowchart (Textual Representation) : -
-    
-
 Start
   ↓
-  
 Enter First Number
   ↓
-  
 Enter Second Number
   ↓
-  
 Select Operation
   ↓
-  
 Perform Calculation
   ↓
-  
 Display Result
   ↓
-  
 End
+    
 
 
 
-11. Implementation
+
+12. Implementation
 
 The calculator is implemented using the tools and features provided by Google Antigravity IDE. The logic is written to process user inputs, perform calculations, and handle exceptions such as invalid input or division by zero.
 
