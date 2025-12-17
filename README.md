@@ -1,5 +1,5 @@
 ## Antigravity IDE – 
-* an AI-powered workspace where code literally writes and organizes itself!
+* An AI-powered workspace where code literally writes and organizes itself!
   
  ✨ Gemini 3 – Google’s most powerful multimodal model with insane reasoning, coding, and agentic intelligence.
  
